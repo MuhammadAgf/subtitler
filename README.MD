@@ -18,7 +18,7 @@ Click the image below for the demo:
 To run the Subtitler, execute the following command:
 
 ```bash
-python subtitler.py
+python main.py
 ```
 
 Upon running the command, a Tkinter interface will open, allowing you to configure the parameters for the Subtitler.
